@@ -1,0 +1,54 @@
+[
+
+    {
+        "source_dynamic" :"arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Calendar.csv" ,
+        "sink_folder" : "AdventureWorks_Calendar",
+        "sink_file_dynamic" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "source_dynamic" : "arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Customers.csv",
+        "sink_folder" : "AdventureWorks_Customers",
+        "sink_file_dynamic" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "source_dynamic" : "arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Product_Categories.csv",
+        "sink_folder" : "AdventureWorks_Product_Categories",
+        "sink_file_dynamic" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "source_dynamic" : "arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "sink_folder" : "AdventureWorks_Product_Subcategories",
+        "sink_file_dynamic" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "source_dynamic" : "arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Products.csv",
+        "sink_folder" : "AdventureWorks_Products",
+        "sink_file_dynamic" : "AdventureWorks_Products.csv"
+    },
+    {
+        "source_dynamic" : "arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Returns.csv",
+        "sink_folder" : "AdventureWorks_Returns",
+        "sink_file_dynamic" : "AdventureWorks_Returns.csv"
+    },
+    {
+        "source_dynamic" : "arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "sink_folder" : "AdventureWorks_Sales_2015",
+        "sink_file_dynamic" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "source_dynamic" : "arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Sales_2016.csv",
+        "sink_folder" : "AdventureWorks_Sales_2016",
+        "sink_file_dynamic" : "AdventureWorks_Sales_2016.csv"
+    },
+    {
+        "source_dynamic" : "arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "sink_folder" : "AdventureWorks_Sales_2017",
+        "sink_file_dynamic" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "source_dynamic" : "arisha-24/Data_engg_project_01/refs/heads/main/AdventureWorks_Territories.csv",
+        "sink_folder" : "AdventureWorks_Territories",
+        "sink_file_dynamic" : "AdventureWorks_Territories.csv"
+    }
+    
+]
